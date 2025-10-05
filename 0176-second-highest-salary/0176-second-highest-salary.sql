@@ -1,0 +1,2 @@
+/* Write your PL/SQL query statement below */
+select(select max(e1.salary)  from Employee e1 where 1=(select count(distinct salary) from Employee e2 where e1.salary<e2.salary)) as SecondHighestSalary from dual;
