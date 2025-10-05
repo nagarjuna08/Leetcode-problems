@@ -1,0 +1,1 @@
+SELECT p.firstName,p.lastName,a.city,state from Person p LEFT OUTER JOIN  Address a ON p.personId=a.personId;
