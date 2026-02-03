@@ -15,6 +15,10 @@ class Solution {
                 return false;
             }
         }
+        if(p==0)
+        {
+            return false;
+        }
         for(int i=p+1;i<n;i++)
         {
             if(nums[i]>nums[i-1])
