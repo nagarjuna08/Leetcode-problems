@@ -5,7 +5,7 @@ class Solution {
         {
             res.add(nums[i]);
         }
-        for(int i=1;i<1000;i++)
+        for(int i=1;i<=100;i++)
         {
             if(!res.contains(k*i))
             {
