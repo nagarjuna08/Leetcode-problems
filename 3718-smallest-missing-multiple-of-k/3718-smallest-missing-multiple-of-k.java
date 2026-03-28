@@ -5,13 +5,14 @@ class Solution {
         {
             res.add(nums[i]);
         }
-        for(int i=1;i<=100;i++)
+        int j=1;
+        for( j=1;j<=100;j++)
         {
-            if(!res.contains(k*i))
+            if(!res.contains(k*j))
             {
-                return k*i;
+                return k*j;
             }
         }
-        return 0;
+        return k*j;
     }
 }
