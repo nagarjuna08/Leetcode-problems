@@ -20,4 +20,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 <!---LeetCode Topics End-->
