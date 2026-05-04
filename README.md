@@ -6,11 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -32,4 +34,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
