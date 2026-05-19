@@ -13,12 +13,6 @@ class Solution {
                 nums[j]=temp;
                 i++;
             }
-            else
-            {
-                int temp=nums[i];
-                nums[i]=nums[j];
-                nums[j]=temp;
-            }
         }    
     }
 }
