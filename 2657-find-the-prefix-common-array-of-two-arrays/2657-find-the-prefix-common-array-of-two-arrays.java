@@ -3,20 +3,20 @@ class Solution {
         int n=A.length;
         int [] C=new int[n];
         int [] fre=new int[n+1];
+        int count=0;
         for(int i=0;i<n;i++)
         {
             fre[A[i]]++;
-            fre[B[i]]++;
-            int count=0;
-            for(int j=0;j<n+1;j++)
+            if(fre[A[i]]==2)
             {
-                if(fre[j]!=0 && fre[j]%2==0)
-                {
-                    count++;
-                }
+                count++;
+            }
+            fre[B[i]]++;
+            if(fre[B[i]]==2)
+            {
+                count++;
             }
             C[i]=count;
-            count=0;
         }
         return C;
     }
