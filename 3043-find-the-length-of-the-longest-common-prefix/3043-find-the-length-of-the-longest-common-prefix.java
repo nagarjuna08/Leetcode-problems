@@ -20,10 +20,6 @@ class Solution {
                 {
                     res=Math.max(res,a);
                 }
-                // else
-                // {
-                //     a1.add(a);
-                // }
                 a=a/10;
             }
         }
