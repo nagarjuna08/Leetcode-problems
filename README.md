@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0443-string-compression/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -82,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2906-construct-product-matrix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2906-construct-product-matrix/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
