@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0896-monotonic-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0896-monotonic-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
