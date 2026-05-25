@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0178-rank-scores/) | Medium |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
