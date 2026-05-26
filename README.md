@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0178-rank-scores/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
