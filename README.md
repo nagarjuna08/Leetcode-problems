@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0896-monotonic-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0896-monotonic-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2906-construct-product-matrix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2906-construct-product-matrix/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
