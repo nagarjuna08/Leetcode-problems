@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0443-string-compression](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0443-string-compression/) | Medium |
+| [0796-rotate-string](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -142,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
