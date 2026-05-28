@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0443-string-compression](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0443-string-compression/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2000-reverse-prefix-of-word/) | Easy |
