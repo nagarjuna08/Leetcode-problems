@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0443-string-compression/) | Medium |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
