@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2906-construct-product-matrix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
