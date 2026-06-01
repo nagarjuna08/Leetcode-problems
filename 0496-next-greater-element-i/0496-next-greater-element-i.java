@@ -17,7 +17,6 @@ class Solution {
     }
     public int next(int arr[],int x,int target)
     {
-        Stack<Integer> st=new Stack<>();
         if(x==arr.length-1)
         {
             return -1;
