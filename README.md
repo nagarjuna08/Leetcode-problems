@@ -218,4 +218,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0394-decode-string/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
