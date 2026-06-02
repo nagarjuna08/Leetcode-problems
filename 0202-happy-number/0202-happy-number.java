@@ -1,31 +1,28 @@
-import java.util.Hashtable;
-class Solution {
-    Hashtable<Integer,Integer> h=new Hashtable<>();
-    public boolean isHappy(int n) {
-        return happy(n);
-    }
-    public boolean happy(int n)
+class Solution 
+{
+    public boolean isHappy(int n) 
     {
-        int m=n;
+        Set<Integer> hs=new HashSet<>();
+        return happy(n,hs);
+    }
+    public boolean happy(int n,Set<Integer> hs)
+    {
         if(n==1)
         {
             return true;
         }
-        int sum=0;
+        int res=0;
         while(n>0)
         {
             int x=n%10;
-            sum=sum+x*x;
-            n=n/10;
+            res+=x*x;
+            n/=10;
         }
-        if(h.containsKey(m))
+        if(!hs.contains(res))
         {
-            return false;
+            hs.add(res);
+            return happy(res,hs);
         }
-        else
-        {
-            h.put(m,sum);
-        }
-        return happy(sum);
+        return false;
     }
 }
