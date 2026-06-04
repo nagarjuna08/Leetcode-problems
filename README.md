@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0075-sort-colors/) | Medium |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1025-divisor-game](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [2126-destroying-asteroids](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
 ## Design
 | Problem Name | Difficulty |
