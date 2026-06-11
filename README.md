@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0620-not-boring-movies](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0620-not-boring-movies/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1179-reformat-department-table](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1179-reformat-department-table/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
