@@ -1,2 +1,3 @@
-/* Write your PL/SQL query statement below */
-select e.name as Employee from employee e,employee m where e.managerId= m.id and e.salary>m.salary;
+/* Write your T-SQL query statement below */
+
+select e.name as Employee from Employee e left join Employee m on e.managerId=m.id where e.salary>m.salary;
