@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0055-jump-game/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1025-divisor-game](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
