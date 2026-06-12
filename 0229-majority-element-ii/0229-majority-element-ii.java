@@ -14,13 +14,14 @@ class Solution {
             {
                 hm.put(nums[i],1);
             }
-        }
-        for(int x: hm.keySet())
-        {
-            if(hm.get(x)>(nums.length)/3)
-            {
-                res.add(x);
-            }
+            if(hm.get(nums[i])>(nums.length)/3 && !res.contains(nums[i]))
+                {
+                    res.add(nums[i]);
+                }
+                if(res.size()==2)
+                {
+                    break;
+                }
         }
         return res;
     }
