@@ -1,2 +1,2 @@
-/* Write your PL/SQL query statement below */
-select class from courses group by class having count(student)>=5;
+/* Write your T-SQL query statement below */
+select class from Courses group by class having count(student)>=5;
