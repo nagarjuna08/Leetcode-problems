@@ -8,7 +8,7 @@ class Solution {
         for(int i=0;i<n-1;i++)
         {
             j=i+1;
-            while(j<n && !over[i] && arr[j][0]>=arr[i][0] && arr[j][0]<=arr[i][1])
+            while(!over[i] && j<n  && arr[j][0]>=arr[i][0] && arr[j][0]<=arr[i][1])
             {
                 int ele= Math.max(arr[i][1],arr[j][1]);
                 arr[i][1]=ele;
@@ -17,10 +17,6 @@ class Solution {
                 j++;
             }
         }
-        // for(int i=0;i<n;i++)
-        // {
-        //     System.out.println(arr[i][0]+" "+ arr[i][1]);
-        // }
         int res[][]=new int[n-m][2];
         j=0;
         for(int k=0;k<n;k++)
