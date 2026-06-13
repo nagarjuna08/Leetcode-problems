@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0185-department-top-three-salaries](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0584-find-customer-referee](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
