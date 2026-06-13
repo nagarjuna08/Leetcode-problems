@@ -1,6 +1,7 @@
 class Solution {
     public int[][] merge(int[][] arr) {
-        Arrays.sort(arr, Comparator.comparingInt(a -> a[0]));
+        //Arrays.sort(arr, Comparator.comparingInt(a -> a[0]));
+        Arrays.sort(arr,(a, b) -> Integer.compare(a[0], b[0]));
         List<int[]>res=new ArrayList<>();
         for(int []a : arr)
         {
