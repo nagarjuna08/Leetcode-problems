@@ -4,6 +4,7 @@ class Solution {
         boolean over[]=new boolean[arr.length];
         int n=arr.length;
         int j;
+        int m=0;
         for(int i=0;i<n-1;i++)
         {
             j=i+1;
@@ -12,23 +13,15 @@ class Solution {
                 int ele= Math.max(arr[i][1],arr[j][1]);
                 arr[i][1]=ele;
                 over[j]=true;
+                m++;
                 j++;
             }
         }
-        for(int i=0;i<n;i++)
-        {
-            System.out.println(arr[i][0]+" "+ arr[i][1]);
-        }
-        int m=0;
-        for(int i=0;i<n;i++)
-        {
-            System.out.println(over[i]);
-            if(over[i]==false)
-            {
-                m++;
-            }
-        }
-        int res[][]=new int[m][2];
+        // for(int i=0;i<n;i++)
+        // {
+        //     System.out.println(arr[i][0]+" "+ arr[i][1]);
+        // }
+        int res[][]=new int[n-m][2];
         j=0;
         for(int k=0;k<n;k++)
         {
