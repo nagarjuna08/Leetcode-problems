@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0075-sort-colors/) | Medium |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
