@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0075-sort-colors/) | Medium |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
