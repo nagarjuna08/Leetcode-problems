@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1179-reformat-department-table/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1280-students-and-examinations](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1587-bank-account-summary-ii/) | Easy |
