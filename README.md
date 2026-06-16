@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-furthest-point-from-origin](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Stack
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
