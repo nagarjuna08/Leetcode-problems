@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0645-set-mismatch](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0896-monotonic-array/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0645-set-mismatch](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [2540-minimum-common-value](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -215,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0229-majority-element-ii/) | Medium |
+| [0645-set-mismatch](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [2126-destroying-asteroids](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
