@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0478-generate-random-point-in-a-circle](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [1025-divisor-game](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1025-divisor-game/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 ## Linked List
