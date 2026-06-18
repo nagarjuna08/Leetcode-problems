@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0478-generate-random-point-in-a-circle](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
