@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1965-employees-with-missing-information](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1965-employees-with-missing-information/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3436-find-valid-emails](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3436-find-valid-emails/) | Easy |
+| [3570-find-books-with-no-available-copies](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
