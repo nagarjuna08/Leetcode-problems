@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1179-reformat-department-table/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1193-monthly-transactions-i/) | Medium |
