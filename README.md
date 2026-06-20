@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0162-find-peak-element/) | Medium |
 | [0493-reverse-pairs](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0875-koko-eating-bananas/) | Medium |
