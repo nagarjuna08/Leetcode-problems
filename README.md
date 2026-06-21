@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1327-list-the-products-ordered-in-a-period](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1587-bank-account-summary-ii/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1873-calculate-special-bonus/) | Easy |
