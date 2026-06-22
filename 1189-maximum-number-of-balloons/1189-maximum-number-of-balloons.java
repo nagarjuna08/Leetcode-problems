@@ -1,40 +1,18 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        int res=0;
-        int n=text.length();
-        Map<Character,Integer> hm=new HashMap<>();
-        for(int i=0;i<n;i++)
-        {
-            char ch=text.charAt(i);
-            hm.put(ch,hm.getOrDefault(ch, 0) + 1);
+        int b_freq = 0;
+        int a_freq = 0;
+        int l_freq = 0;
+        int o_freq = 0;
+        int n_freq = 0;
+
+        for(char ch: text.toCharArray()) {
+            if(ch == 'b') b_freq++;
+            else if(ch == 'a') a_freq++;
+            else if(ch == 'l') l_freq++;
+            else if(ch == 'o') o_freq++;
+            else if(ch == 'n') n_freq++;
         }
-        boolean x=true;
-        while(x)
-        {
-            if((hm.containsKey('b')&&hm.get('b')>=1)&&(hm.containsKey('a')&&hm.get('a')>=1)&&(hm.containsKey('l')&&hm.get('l')>=2)&&(hm.containsKey('o')&&hm.get('o')>=2)&&(hm.containsKey('n')&&hm.get('n')>=1))
-            {
-                res++;
-                int b=hm.get('b');
-                b--;
-                hm.put('b',b);
-                int a=hm.get('a');
-                a--;
-                hm.put('a',a);
-                int l=hm.get('l');
-                l=l-2;
-                hm.put('l',l);
-                int o=hm.get('o');
-                o=o-2;
-                hm.put('o',o);
-                int nf=hm.get('n');
-                nf--;
-                hm.put('n',nf);
-            }
-            else
-            {
-                x=false;
-            }
-        }
-        return res;
+        return Math.min(Math.min(b_freq, a_freq), Math.min(n_freq, Math.min(l_freq/2, o_freq/2)));
     }
 }
