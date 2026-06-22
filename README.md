@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0896-monotonic-array/) | Easy |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1470-shuffle-the-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2540-minimum-common-value](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
