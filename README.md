@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1193-monthly-transactions-i](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1407-top-travellers](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1407-top-travellers/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1587-bank-account-summary-ii/) | Easy |
