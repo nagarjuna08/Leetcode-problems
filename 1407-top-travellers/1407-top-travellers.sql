@@ -1,0 +1,2 @@
+/* Write your T-SQL query statement below */
+select u.name, sum(isnull(r.distance,0)) as travelled_distance from Users u left join Rides r on u.id=r.user_id group by u.id, u.name order by  sum(isnull(r.distance,0)) desc ,u.name;
