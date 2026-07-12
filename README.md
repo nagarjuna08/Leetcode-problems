@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-monotonic-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0896-monotonic-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2540-minimum-common-value](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0229-majority-element-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0645-set-mismatch/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
