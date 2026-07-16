@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0013-roman-to-integer](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0478-generate-random-point-in-a-circle](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
