@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2540-minimum-common-value](https://github.com/nagarjuna08/Leetcode-problems/tree/main/2540-minimum-common-value/) | Easy |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0478-generate-random-point-in-a-circle](https://github.com/nagarjuna08/Leetcode-problems/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [1025-divisor-game](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1025-divisor-game/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -398,5 +400,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nagarjuna08/Leetcode-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
