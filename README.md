@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1661-average-time-of-process-per-machine](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1693-daily-leads-and-partners/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/nagarjuna08/Leetcode-problems/tree/main/1873-calculate-special-bonus/) | Easy |
